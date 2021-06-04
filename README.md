@@ -19,4 +19,4 @@ This is a Machine Learning repo. All the resources are cummulative collection of
  more details.
 
  You should have received a copy of the **GNU General Public License** along with
- GNU Mailman.  If not, see <https://www.gnu.org/licenses/>.
+ Machine Learning Repo.  If not, see <https://www.gnu.org/licenses/>.
