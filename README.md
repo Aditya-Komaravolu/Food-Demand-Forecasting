@@ -1,6 +1,6 @@
 # Machine Learning
 
-This is a Machine Learning repo. All the resources are cummulative collection of the work done by **NLP-DL Club**, **`Department of AI, VJIT`**
+This is a Machine Learning repo. All the resources are cummulative collection of the work done by [**Aditya Komaravolu**](url).
 
 
 ##  **Copyright (C) 2020-2021 by Aditya Komaravolu**.
