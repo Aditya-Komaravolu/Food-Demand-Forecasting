@@ -79,7 +79,7 @@ traitlets==5.0.5
 typing-extensions==3.7.4.3
 wcwidth==0.2.5
 Werkzeug==2.0.1
-widgetsnbextension==3.5.1
+widgetsnbextension
 
 ```
 
@@ -88,13 +88,19 @@ widgetsnbextension==3.5.1
     
 -   _Meal ID and Category of Food_
 
--    
+-   _Fulfilment Centers for a given region_  
 
--          
+-        
 ## [05/06/2021]
-- Decided to go first model with _**Decision Tree**_ for predicting type of food requirement for the user based on meal_id.
+- Decided to go first model with _**DecisionTreeClassifier**_ for predicting type of food requirement for the user based on `meal_id`.
 
 - target files --> `_meal_info.csv_` and `meal_info.ipynb`.
  
-- Built a Decision Tree model which successfully prdicts the type of `category` and `cuisine` the user is going to pick based on the user's `meal_id`.
+- Built a **DecisionTreeClassifier** which successfully predicts the type of `category` and `cuisine` the user is going to pick based on the user's `meal_id`.
 
+## [09/06/2021]
+- Decided to go second model with _**DecisionTreeRegressor**_ for predicting _`region_code`_, _`area_code`_, _`dispatch_warehouse(A,B and C)`_ and _`area of operation`_  based on `center_id`.
+
+- target files --> `_fulfilment_center_info.csv_` and `_fulfilment_center_info.ipynb`.
+ 
+- Built a **DecisionTreeRegressor** which successfully predicts the result with above requirements.
