@@ -1,6 +1,6 @@
-# Machine Learning
+# Food Demand Forecasting 
 
-This is a Machine Learning repo. All the resources are cummulative collection of the work done by [**Aditya Komaravolu**](url).
+A supply chain use case Machine Learning project. All the resources are cummulative collection of the work done by [**Aditya Komaravolu**](url).
 
 
 ##  **Copyright (C) 2020-2021 by Aditya Komaravolu**.
