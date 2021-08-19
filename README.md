@@ -98,7 +98,7 @@ widgetsnbextension
 
 -   _Fulfilment Centers for a given region_  
 
--        
+-   _Model to predict the demand forecast_    
 ## [05/06/2021]
 - Decided to go first model with _**DecisionTreeClassifier**_ for predicting type of food requirement for the user based on `meal_id`.
 
